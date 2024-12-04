@@ -7,7 +7,7 @@ export const courses: Course[] = [
     duration: '1 Year',
     students: '100+',
     rating: '4.8',
-    image: '/images/course1.jpg',
+    image: '/images/course1.png',
   },
   {
     title: 'Recorded Class (Tamil)',
